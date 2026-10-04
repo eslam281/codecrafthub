@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Python Fundamentals",
+        "description": "Learn Python programming",
+        "target_date": "2024-12-31",
+        "status": "Completed",
+        "created_at": "2026-10-04 21:08:00",
+        "updated_at": "2026-10-04 21:10:50"
+    },
+    {
+        "id": 2,
+        "name": "Advanced JavaScript and ES6",
+        "description": "Master modern JS",
+        "target_date": "2025-01-15",
+        "status": "Not Started",
+        "created_at": "2026-10-04 21:08:00",
+        "updated_at": "2026-10-04 21:10:50"
+    },
+    {
+        "id": 4,
+        "name": "Advanced JavaScript",
+        "description": "Master JS concepts",
+        "target_date": "2025-01-15",
+        "status": "Not Started",
+        "created_at": "2026-10-04 21:10:49",
+        "updated_at": "2026-10-04 21:10:49"
+    },
+    {
+        "id": 5,
+        "name": "HTML and CSS",
+        "description": "Build web pages",
+        "target_date": "2024-09-30",
+        "status": "Completed",
+        "created_at": "2026-10-04 21:10:49",
+        "updated_at": "2026-10-04 21:10:49"
+    }
+]
